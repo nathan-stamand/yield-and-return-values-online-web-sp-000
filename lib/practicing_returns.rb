@@ -10,4 +10,4 @@ def hello(array)
 end
 
 
-helhello(["Tim", "Tom", "Jim"]) { |name| "Hi, #{name}" }
+hello(["Tim", "Tom", "Jim"]) { |name| "Hi, #{name}" }
