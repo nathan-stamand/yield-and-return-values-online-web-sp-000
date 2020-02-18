@@ -9,5 +9,5 @@ def hello(array)
   end
 end
 
-binding.pry
+
 helhello(["Tim", "Tom", "Jim"]) { |name| "Hi, #{name}" }lo(["Tim", "Tom", "Jim"]) { |name| "Hi, #{name}" }
